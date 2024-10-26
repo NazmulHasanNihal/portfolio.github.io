@@ -1,0 +1,4 @@
+- name: MLP 
+- name: CNN
+- name: RNN
+- name: LSTM

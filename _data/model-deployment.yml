@@ -1,0 +1,4 @@
+- name: Flask
+- name: Docker
+- name: Kubernetes
+- name: MLflow

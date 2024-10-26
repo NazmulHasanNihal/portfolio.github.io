@@ -1,0 +1,14 @@
+- name: Scikit-learn
+- name: TensorFlow
+- name: PyTorch 
+- name: Keras
+- name: XGBoost
+- name: LightGBM
+- name: CatBoost
+- name: LightGBM
+- name: Random Forest
+- name: AdaBoost
+- name: Gradient Boosting
+- name: SVM
+- name: Naive Bayes
+- name: GBM
